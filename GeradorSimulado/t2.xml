@@ -1,0 +1,14 @@
+<list>
+  <Assunto>
+    <nome>vida</nome>
+    <ativo>true</ativo>
+    <quantidade>3</quantidade>
+    <atual>1</atual>
+  </Assunto>
+  <Assunto>
+    <nome>vid</nome>
+    <ativo>true</ativo>
+    <quantidade>3</quantidade>
+    <atual>1</atual>
+  </Assunto>
+</list>

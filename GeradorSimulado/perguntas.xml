@@ -1,0 +1,30 @@
+<list>
+  <QuestaoAberta>
+    <pergunta>aqui</pergunta>
+    <assunto>
+      <nome>vida</nome>
+      <data>
+        <time>1526585828377</time>
+        <timezone>GMT-03:00</timezone>
+      </data>
+      <ativo>true</ativo>
+      <quantidade>3</quantidade>
+      <atual>1</atual>
+    </assunto>
+    <resposta>dfs</resposta>
+  </QuestaoAberta>
+  <QuestaoVouF>
+    <pergunta>asjkl</pergunta>
+    <assunto>
+      <nome>vid</nome>
+      <data>
+        <time>1526585828377</time>
+        <timezone>GMT-03:00</timezone>
+      </data>
+      <ativo>true</ativo>
+      <quantidade>3</quantidade>
+      <atual>1</atual>
+    </assunto>
+    <resposta>true</resposta>
+  </QuestaoVouF>
+</list>

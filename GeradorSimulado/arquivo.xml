@@ -1,0 +1,22 @@
+<list>
+  <QuestaoAberta>
+    <pergunta>aqui</pergunta>
+    <assunto>
+      <nome>vida</nome>
+      <ativo>true</ativo>
+      <quantidade>3</quantidade>
+      <atual>1</atual>
+    </assunto>
+    <resposta>dfs</resposta>
+  </QuestaoAberta>
+  <QuestaoVouF>
+    <pergunta>asjkl</pergunta>
+    <assunto>
+      <nome>vid</nome>
+      <ativo>true</ativo>
+      <quantidade>3</quantidade>
+      <atual>1</atual>
+    </assunto>
+    <resposta>Verdadeiro</resposta>
+  </QuestaoVouF>
+</list>
